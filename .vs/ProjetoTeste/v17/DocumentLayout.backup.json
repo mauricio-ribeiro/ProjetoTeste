@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sistemas Web\\APIs\\ProjetoTeste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D43CA9-2250-4D7F-98A8-F723260AC31E}|src\\ProjetoTeste.Api\\ProjetoTeste.Api.csproj|c:\\sistemas web\\apis\\projetoteste\\src\\projetoteste.api\\presentation\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D43CA9-2250-4D7F-98A8-F723260AC31E}|src\\ProjetoTeste.Api\\ProjetoTeste.Api.csproj|solutionrelative:src\\projetoteste.api\\presentation\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB72887-7EF5-43F9-AF5B-7ACB7E420C2D}|test\\ProjetoTeste.Test\\ProjetoTeste.Test.csproj|c:\\sistemas web\\apis\\projetoteste\\test\\projetoteste.test\\fornecedorcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB72887-7EF5-43F9-AF5B-7ACB7E420C2D}|test\\ProjetoTeste.Test\\ProjetoTeste.Test.csproj|solutionrelative:test\\projetoteste.test\\fornecedorcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D43CA9-2250-4D7F-98A8-F723260AC31E}|src\\ProjetoTeste.Api\\ProjetoTeste.Api.csproj|c:\\sistemas web\\apis\\projetoteste\\src\\projetoteste.api\\application\\services\\fornecedorappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D43CA9-2250-4D7F-98A8-F723260AC31E}|src\\ProjetoTeste.Api\\ProjetoTeste.Api.csproj|solutionrelative:src\\projetoteste.api\\application\\services\\fornecedorappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FornecedorControllerTest.cs",
+              "DocumentMoniker": "C:\\Sistemas Web\\APIs\\ProjetoTeste\\test\\ProjetoTeste.Test\\FornecedorControllerTest.cs",
+              "RelativeDocumentMoniker": "test\\ProjetoTeste.Test\\FornecedorControllerTest.cs",
+              "ToolTip": "C:\\Sistemas Web\\APIs\\ProjetoTeste\\test\\ProjetoTeste.Test\\FornecedorControllerTest.cs",
+              "RelativeToolTip": "test\\ProjetoTeste.Test\\FornecedorControllerTest.cs",
+              "ViewState": "AgIAAEsBAAAAAAAAAAAuwFoBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:07:38.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FornecedorAppService.cs",
+              "DocumentMoniker": "C:\\Sistemas Web\\APIs\\ProjetoTeste\\src\\ProjetoTeste.Api\\Application\\Services\\FornecedorAppService.cs",
+              "RelativeDocumentMoniker": "src\\ProjetoTeste.Api\\Application\\Services\\FornecedorAppService.cs",
+              "ToolTip": "C:\\Sistemas Web\\APIs\\ProjetoTeste\\src\\ProjetoTeste.Api\\Application\\Services\\FornecedorAppService.cs",
+              "RelativeToolTip": "src\\ProjetoTeste.Api\\Application\\Services\\FornecedorAppService.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAuwK8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:58:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FornecedorController.cs",
+              "DocumentMoniker": "C:\\Sistemas Web\\APIs\\ProjetoTeste\\src\\ProjetoTeste.Api\\Presentation\\Controllers\\FornecedorController.cs",
+              "RelativeDocumentMoniker": "src\\ProjetoTeste.Api\\Presentation\\Controllers\\FornecedorController.cs",
+              "ToolTip": "C:\\Sistemas Web\\APIs\\ProjetoTeste\\src\\ProjetoTeste.Api\\Presentation\\Controllers\\FornecedorController.cs",
+              "RelativeToolTip": "src\\ProjetoTeste.Api\\Presentation\\Controllers\\FornecedorController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:40:55.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
